@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.event_badge {
+  @apply bg-green-200 font-bold text-sm rounded absolute top-5 left-5 p-1 justify-center;
+}
